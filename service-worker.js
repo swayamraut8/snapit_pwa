@@ -2,8 +2,8 @@ const CACHE_NAME = "snapshop-cache-v1";
 const urlsToCache = [
   "index.html",
   "manifest.json",
-  "icon-192.png",
-  "icon-512.png",
+  "small.png",
+  "big.png",
   "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
 ];
 
